@@ -17,6 +17,7 @@
   ],
   "main": "",
   "dependencies": {
+    "lodash": "^4.1.0"
   },
   "devDependencies": {},
   "scripts": {
