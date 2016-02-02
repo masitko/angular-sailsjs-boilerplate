@@ -16,9 +16,7 @@
     "slush-angular"
   ],
   "main": "",
-  "dependencies": {
-    "lodash": "^4.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "install": "git submodule update --init --recursive && cd backend && npm install && cd ../frontend && npm install",
